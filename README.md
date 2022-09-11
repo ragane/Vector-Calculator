@@ -5,7 +5,7 @@ This trivial calculator was developed by me to perform simple operations on up t
 
 The action that is performed is:
 
-        adding and subtracting vectors to each other,
-        scalar product of vectors,
-        multiplying vectors by number,
-        calculating the modulus of vectors.
+        - adding and subtracting vectors to each other,
+        - scalar product of vectors,
+        - multiplying vectors by number,
+        - calculating the modulus of vectors.
